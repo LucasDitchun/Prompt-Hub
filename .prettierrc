@@ -1,0 +1,12 @@
+{
+  "proseWrap": "preserve",
+  "singleAttributePerLine": false,
+  "overrides": [
+    {
+      "files": "*.md",
+      "options": {
+        "proseWrap": "never"
+      }
+    }
+  ]
+}
