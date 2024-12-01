@@ -1,5 +1,7 @@
 # PROMPT HUB
 
+Total number of files: 59
+
 ## Directory and Files Index
 
 ### AI-Agents/
@@ -33,16 +35,37 @@
 - [CEO.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/CEO.md)
 - [CFO.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/CFO.md)
 - [CIO.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/CIO.md)
-- [Cloud-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Cloud-Engineer.md)
 - [CMO.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/CMO.md)
+- [COO.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/COO.md)
+- [CTO.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/CTO.md)
+- [Cloud-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Cloud-Engineer.md)
 - [Community-Manager.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Community-Manager.md)
 - [Company-Profile-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Company-Profile-Generator.md)
 - [Consultant.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Consultant.md)
 - [Content-Marketer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Content-Marketer.md)
-- [COO.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/COO.md)
 - [Copywriter.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Copywriter.md)
 - [Creative-Director.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Creative-Director.md)
-- [CTO.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/CTO.md)
+- [Customer-Success-Manager.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Customer-Success-Manager.md)
+- [Customer-Support-Representative.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Customer-Support-Representative.md)
+- [Daily-Emails-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Daily-Emails-Generator.md)
+- [Data-Analysis-Report-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Data-Analysis-Report-Generator.md)
+- [Data-Analyst.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Data-Analyst.md)
+- [Data-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Data-Engineer.md)
+- [Data-Scientist.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Data-Scientist.md)
+- [Database-Administrator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Database-Administrator.md)
+- [DevOps-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/DevOps-Engineer.md)
+- [Digital-Marketer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Digital-Marketer.md)
+- [Documentation-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Documentation-Generator.md)
+- [Editor.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Editor.md)
+- [Email-Responder.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Email-Responder.md)
+- [Entrepreneur.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Entrepreneur.md)
+- [Facility-Manager.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Facility-Manager.md)
+- [Finance-Manager.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Finance-Manager.md)
+- [Financial-Analyst.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Financial-Analyst.md)
 - [Financial-Audit-Specialist.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Financial-Audit-Specialist.md)
+- [Financial-Consultant.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Financial-Consultant.md)
+- [Financial-Controller.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Financial-Controller.md)
+- [Financial-Planner.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Financial-Planner.md)
 - [Professional-Leadership-and-Management-Coach.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Professional-Leadership-and-Management-Coach.md)
 - [Specialist-in-Business-Development-Sales-and-Client-Relations.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Specialist-in-Business-Development-Sales-and-Client-Relations.md)
+
