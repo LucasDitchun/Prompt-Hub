@@ -1,8 +1,8 @@
 # PROMPT HUB
 
-Total number of files: 59
+Total number of prompts: 66
 
-## Directory and Files Index
+## Directory and Files prompts
 
 ### AI-Agents/
 #### Files in AI-Agents:
@@ -66,6 +66,12 @@ Total number of files: 59
 - [Financial-Consultant.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Financial-Consultant.md)
 - [Financial-Controller.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Financial-Controller.md)
 - [Financial-Planner.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Financial-Planner.md)
+- [Frontend-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Frontend-Engineer.md)
+- [Full-Stack-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Full-Stack-Engineer.md)
+- [IT-Manager.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/IT-Manager.md)
+- [IT-Support-Technician](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/IT-Support-Technician)
+- [Machine-Learning-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Machine-Learning-Engineer.md)
 - [Professional-Leadership-and-Management-Coach.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Professional-Leadership-and-Management-Coach.md)
+- [Security-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Security-Engineer.md)
+- [Software-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Software-Engineer.md)
 - [Specialist-in-Business-Development-Sales-and-Client-Relations.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Specialist-in-Business-Development-Sales-and-Client-Relations.md)
-
