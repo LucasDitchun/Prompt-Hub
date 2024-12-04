@@ -1,6 +1,6 @@
 # PROMPT HUB
 
-Total number of prompts: 71
+Total number of prompts: 76
 
 ## Directory and Files prompts
 
@@ -76,6 +76,11 @@ Total number of prompts: 71
 - [Machine-Learning-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Machine-Learning-Engineer.md)
 - [OKRs-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/OKRs-Generator.md)
 - [PESTEL-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/PESTEL-Generator.md)
+- [Product-Designer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Product-Designer.md)
+- [Product-Manager.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Product-Manager.md)
+- [Product-Marketer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Product-Marketer.md)
+- [Product-Service-Idea-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Product-Service-Idea-Generator.md)
+- [Product-Strategist.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Product-Strategist.md)
 - [Professional-Leadership-and-Management-Coach.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Professional-Leadership-and-Management-Coach.md)
 - [Security-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Security-Engineer.md)
 - [Software-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Software-Engineer.md)
