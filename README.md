@@ -1,6 +1,6 @@
 # PROMPT HUB
 
-Total number of prompts: 76
+Total number of prompts: 95
 
 ## Directory and Files prompts
 
@@ -68,20 +68,39 @@ Total number of prompts: 76
 - [Financial-Planner.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Financial-Planner.md)
 - [Frontend-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Frontend-Engineer.md)
 - [Full-Stack-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Full-Stack-Engineer.md)
+- [Graphic-Designer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Graphic-Designer.md)
 - [Growth-Marketer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Growth-Marketer.md)
 - [Growth-Strategist.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Growth-Strategist.md)
 - [IT-Manager.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/IT-Manager.md)
 - [IT-Support-Technician.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/IT-Support-Technician.md)
 - [Learning-Strategy-Developer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Learning-Strategy-Developer.md)
+- [Logo-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Logo-Generator.md)
 - [Machine-Learning-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Machine-Learning-Engineer.md)
+- [Mentor.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Mentor.md)
 - [OKRs-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/OKRs-Generator.md)
 - [PESTEL-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/PESTEL-Generator.md)
+- [Photographer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Photographer.md)
 - [Product-Designer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Product-Designer.md)
 - [Product-Manager.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Product-Manager.md)
 - [Product-Marketer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Product-Marketer.md)
 - [Product-Service-Idea-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Product-Service-Idea-Generator.md)
 - [Product-Strategist.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Product-Strategist.md)
 - [Professional-Leadership-and-Management-Coach.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Professional-Leadership-and-Management-Coach.md)
+- [QA-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/QA-Engineer.md)
+- [Reading-Organizer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Reading-Organizer.md)
+- [Reading-Summarizer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Reading-Summarizer.md)
+- [Recruiter.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Recruiter.md)
+- [SEO-specialist.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/SEO-specialist.md)
+- [SWOT-CAME-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/SWOT-CAME-Generator.md)
+- [Sales-Manager.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Sales-Manager.md)
 - [Security-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Security-Engineer.md)
+- [Social-Media-Manager.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Social-Media-Manager.md)
 - [Software-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Software-Engineer.md)
 - [Specialist-in-Business-Development-Sales-and-Client-Relations.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Specialist-in-Business-Development-Sales-and-Client-Relations.md)
+- [Tool-Suite-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Tool-Suite-Generator.md)
+- [UX-UI-Designer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/UX-UI-Designer.md)
+- [UX-UI-Researcher.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/UX-UI-Researcher.md)
+- [UX-UI-Writer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/UX-UI-Writer.md)
+- [User-Persona-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/User-Persona-Generator.md)
+- [Video-Producer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Video-Producer.md)
+- [Videographer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Videographer.md)
