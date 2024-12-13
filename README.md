@@ -1,6 +1,6 @@
 # PROMPT HUB
 
-Total number of prompts: 105
+Total number of prompts: 115
 
 ## Directory and Files prompts
 
@@ -21,6 +21,9 @@ Total number of prompts: 105
 #### Files in Business:
 - [Account-Executive.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Account-Executive.md)
 - [Account-Manager.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Account-Manager.md)
+- [Advanced-IT-Architect.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Advanced-IT-Architect.md)
+- [Advanced-Network-Monitoring.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Advanced-Network-Monitoring.md)
+- [Advanced-User-Manual-System.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Advanced-User-Manual-System.md)
 - [Animator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Animator.md)
 - [Art-Director.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Art-Director.md)
 - [Backend-Engineering-Specialist-Prompt.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Backend-Engineering-Specialist-Prompt.md)
@@ -48,6 +51,7 @@ Total number of prompts: 105
 - [Corporate-Contract-Review.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Corporate-Contract-Review.md)
 - [Creative-Director.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Creative-Director.md)
 - [Customer-Success-Manager.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Customer-Success-Manager.md)
+- [Customer-Support-Framework.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Customer-Support-Framework.md)
 - [Customer-Support-Representative.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Customer-Support-Representative.md)
 - [Daily-Emails-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Daily-Emails-Generator.md)
 - [Data-Analysis-Report-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Data-Analysis-Report-Generator.md)
@@ -80,10 +84,12 @@ Total number of prompts: 105
 - [Legal-Document-Assistant.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Legal-Document-Assistant.md)
 - [Logo-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Logo-Generator.md)
 - [Machine-Learning-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Machine-Learning-Engineer.md)
+- [Mashup-Innovation-Guide.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Mashup-Innovation-Guide.md)
 - [Meeting-Summarizer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Meeting-Summarizer.md)
 - [Meetings-Organizer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Meetings-Organizer.md)
 - [Mentor.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Mentor.md)
 - [OKRs-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/OKRs-Generator.md)
+- [Operational-Strategy-Expert.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Operational-Strategy-Expert.md)
 - [PESTEL-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/PESTEL-Generator.md)
 - [PR-Manager.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/PR-Manager.md)
 - [Photographer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Photographer.md)
@@ -93,6 +99,7 @@ Total number of prompts: 105
 - [Product-Service-Idea-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Product-Service-Idea-Generator.md)
 - [Product-Strategist.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Product-Strategist.md)
 - [Professional-Leadership-and-Management-Coach.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Professional-Leadership-and-Management-Coach.md)
+- [Program-Planning-Expert.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Program-Planning-Expert.md)
 - [Project-Planning-Expert.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Project-Planning-Expert.md)
 - [QA-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/QA-Engineer.md)
 - [Reading-Organizer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Reading-Organizer.md)
@@ -105,12 +112,15 @@ Total number of prompts: 105
 - [Social-Media-Manager.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Social-Media-Manager.md)
 - [Software-Engineer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Software-Engineer.md)
 - [Specialist-in-Business-Development-Sales-and-Client-Relations.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Specialist-in-Business-Development-Sales-and-Client-Relations.md)
+- [Strategic-Business-Growth.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Strategic-Business-Growth.md)
 - [Strategic-Planning-Assistant.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Strategic-Planning-Assistant.md)
+- [Strategic-Sales-Planning.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Strategic-Sales-Planning.md)
 - [Strategic-Value-Analysis.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Strategic-Value-Analysis.md)
 - [Tool-Suite-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Tool-Suite-Generator.md)
 - [UX-UI-Designer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/UX-UI-Designer.md)
 - [UX-UI-Researcher.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/UX-UI-Researcher.md)
 - [UX-UI-Writer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/UX-UI-Writer.md)
 - [User-Persona-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/User-Persona-Generator.md)
+- [VP-of-Product.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/VP-of-Product.md)
 - [Video-Producer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Video-Producer.md)
 - [Videographer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Videographer.md)
