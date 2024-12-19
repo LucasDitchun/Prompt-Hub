@@ -2,10 +2,19 @@
 
 Total number of prompts: 139
 
-## Directory and Files prompts
+## Table of Contents
 
-### AI-Agents/
+- [AI-Agents](#ai-agents) (10 prompts)
+- [Business](#business) (129 prompts)
+
+---
+
+## AI-Agents (10 prompts)
+<details>
+  <summary>Click to expand the list</summary>
+
 #### Files in AI-Agents:
+
 - [Content-Inspector-Agent.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/AI-Agents/Content-Inspector-Agent.md)
 - [Copywriting-Agent.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/AI-Agents/Copywriting-Agent.md)
 - [Perfect-Offer-Agent.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/AI-Agents/Perfect-Offer-Agent.md)
@@ -17,8 +26,14 @@ Total number of prompts: 139
 - [Ultimate-Short-Form-Video-Creator-Agent.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/AI-Agents/Ultimate-Short-Form-Video-Creator-Agent.md)
 - [Ultimate-Text-Post-Creator-Agent.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/AI-Agents/Ultimate-Text-Post-Creator-Agent.md)
 
-### Business/
+</details>
+
+## Business (129 prompts)
+<details>
+  <summary>Click to expand the list</summary>
+
 #### Files in Business:
+
 - [Account-Executive.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Account-Executive.md)
 - [Account-Manager.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Account-Manager.md)
 - [Advanced-IT-Architect.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Advanced-IT-Architect.md)
@@ -148,3 +163,5 @@ Total number of prompts: 139
 - [Video-Producer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Video-Producer.md)
 - [Videographer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Videographer.md)
 - [Visual-Identity-Design.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Visual-Identity-Design.md)
+
+</details>
