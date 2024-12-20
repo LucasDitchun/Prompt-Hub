@@ -1,11 +1,12 @@
 # PROMPT HUB
 
-Total number of prompts: 139
+Total number of prompts: 142
 
 ## Table of Contents
 
 - [AI-Agents](#ai-agents) (10 prompts)
 - [Business](#business) (129 prompts)
+- [Copywriting](#copywriting) (3 prompts)
 
 ---
 
@@ -163,5 +164,17 @@ Total number of prompts: 139
 - [Video-Producer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Video-Producer.md)
 - [Videographer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Videographer.md)
 - [Visual-Identity-Design.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Visual-Identity-Design.md)
+
+</details>
+
+## Copywriting (3 prompts)
+<details>
+  <summary>Click to expand the list</summary>
+
+#### Files in Copywriting:
+
+- [Copywriting Template Builder.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting Template Builder.md)
+- [Copywriting-Pastor-Outline-Frameworks.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting-Pastor-Outline-Frameworks.md)
+- [Persuasive-Copywriting-for-Personas.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Persuasive-Copywriting-for-Personas.md)
 
 </details>
