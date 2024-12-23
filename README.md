@@ -1,12 +1,12 @@
 # PROMPT HUB
 
-Total number of prompts: 142
+Total number of prompts: 150
 
 ## Table of Contents
 
 - [AI-Agents](#ai-agents) (10 prompts)
 - [Business](#business) (129 prompts)
-- [Copywriting](#copywriting) (3 prompts)
+- [Copywriting](#copywriting) (11 prompts)
 
 ---
 
@@ -167,14 +167,22 @@ Total number of prompts: 142
 
 </details>
 
-## Copywriting (3 prompts)
+## Copywriting (11 prompts)
 <details>
   <summary>Click to expand the list</summary>
 
 #### Files in Copywriting:
 
 - [Copywriting Template Builder.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting Template Builder.md)
+- [Copywriting-Highlighting-Features-and-Benefits-of-Product-Service.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting-Highlighting-Features-and-Benefits-of-Product-Service.md)
+- [Copywriting-Ideal-Customer-Persona-with-a-Powerful-Headline-and-Hook.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting-Ideal-Customer-Persona-with-a-Powerful-Headline-and-Hook.md)
+- [Copywriting-Ideal-Persona-to-Buy-Product-Service.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting-Ideal-Persona-to-Buy-Product-Service.md)
+- [Copywriting-Overcoming-Objections-of-Ideal-Customer-Persona.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting-Overcoming-Objections-of-Ideal-Customer-Persona.md)
+- [Copywriting-PAS-Outline-Frameworks.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting-PAS-Outline-Frameworks.md)
 - [Copywriting-Pastor-Outline-Frameworks.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting-Pastor-Outline-Frameworks.md)
+- [Copywriting-Target-Persona-and-Call-to-Action.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting-Target-Persona-and-Call-to-Action.md)
+- [Dynamic-Tweet-Creator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Dynamic-Tweet-Creator.md)
 - [Persuasive-Copywriting-for-Personas.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Persuasive-Copywriting-for-Personas.md)
+- [Writing-Style-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Writing-Style-Generator.md)
 
 </details>
