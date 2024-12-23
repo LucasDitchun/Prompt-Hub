@@ -173,7 +173,6 @@ Total number of prompts: 150
 
 #### Files in Copywriting:
 
-- [Copywriting Template Builder.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting Template Builder.md)
 - [Copywriting-Highlighting-Features-and-Benefits-of-Product-Service.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting-Highlighting-Features-and-Benefits-of-Product-Service.md)
 - [Copywriting-Ideal-Customer-Persona-with-a-Powerful-Headline-and-Hook.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting-Ideal-Customer-Persona-with-a-Powerful-Headline-and-Hook.md)
 - [Copywriting-Ideal-Persona-to-Buy-Product-Service.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting-Ideal-Persona-to-Buy-Product-Service.md)
@@ -181,6 +180,7 @@ Total number of prompts: 150
 - [Copywriting-PAS-Outline-Frameworks.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting-PAS-Outline-Frameworks.md)
 - [Copywriting-Pastor-Outline-Frameworks.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting-Pastor-Outline-Frameworks.md)
 - [Copywriting-Target-Persona-and-Call-to-Action.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting-Target-Persona-and-Call-to-Action.md)
+- [Copywriting-Template-Builder.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting-Template-Builder.md)
 - [Dynamic-Tweet-Creator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Dynamic-Tweet-Creator.md)
 - [Persuasive-Copywriting-for-Personas.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Persuasive-Copywriting-for-Personas.md)
 - [Writing-Style-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Writing-Style-Generator.md)
