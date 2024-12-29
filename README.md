@@ -1,12 +1,12 @@
 # PROMPT HUB
 
-Total number of prompts: 158
+Total number of prompts: 165
 
 ## Table of Contents
 
 - [AI-Agents](#ai-agents) (10 prompts)
 - [Business](#business) (129 prompts)
-- [Copywriting](#copywriting) (19 prompts)
+- [Copywriting](#copywriting) (26 prompts)
 
 ---
 
@@ -167,13 +167,16 @@ Total number of prompts: 158
 
 </details>
 
-## Copywriting (19 prompts)
+## Copywriting (26 prompts)
 <details>
   <summary>Click to expand the list</summary>
 
 #### Files in Copywriting:
 
+- [AIDA Framework.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/AIDA Framework.md)
 - [Addressing-Pain-Points-and-Needs-of-Ideal-Customer-Persona.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Addressing-Pain-Points-and-Needs-of-Ideal-Customer-Persona.md)
+- [Before-After-Bridge-Outline-Frameworks.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Before-After-Bridge-Outline-Frameworks.md)
+- [CAB-Outline-Framework.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/CAB-Outline-Framework.md)
 - [Copywriting-Convince-Ideal-Customer-Persona-to-Subscribe.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting-Convince-Ideal-Customer-Persona-to-Subscribe.md)
 - [Copywriting-Crafting-a-Story-About-Product-Service-for-Ideal-Customer-Persona.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting-Crafting-a-Story-About-Product-Service-for-Ideal-Customer-Persona.md)
 - [Copywriting-Highlighting-Features-and-Benefits-of-Product-Service.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting-Highlighting-Features-and-Benefits-of-Product-Service.md)
@@ -187,9 +190,13 @@ Total number of prompts: 158
 - [Copywriting-Template-to-Content-Transformer.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting-Template-to-Content-Transformer.md)
 - [Copywriting-Trust-and-Connection-with-Ideal-Customer-Persona.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Copywriting-Trust-and-Connection-with-Ideal-Customer-Persona.md)
 - [Dynamic-Tweet-Creator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Dynamic-Tweet-Creator.md)
+- [Future-Pacing-Campaign-Frameworks.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Future-Pacing-Campaign-Frameworks.md)
+- [Headline-Outline-Frameworks.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Headline-Outline-Frameworks.md)
+- [Hook-Story-Offer-Campaigns-Framework.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Hook-Story-Offer-Campaigns-Framework.md)
 - [Persuasive-Copywriting-for-Personas.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Persuasive-Copywriting-for-Personas.md)
 - [Picture-Promise-Prove-Push-PPPP-Framework.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Picture-Promise-Prove-Push-PPPP-Framework.md)
 - [Problem-Agitate-Solve-Outline-Frameworks.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Problem-Agitate-Solve-Outline-Frameworks.md)
+- [Social-Proof-Marketing-Frameworks.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Social-Proof-Marketing-Frameworks.md)
 - [Unique-Value-Proposition-Framework.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Unique-Value-Proposition-Framework.md)
 - [Writing-Style-Generator.md](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Writing-Style-Generator.md)
 
