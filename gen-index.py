@@ -40,7 +40,9 @@ def generate_markdown(directory, github_repo_url):
             markdown_content += f"#### Files in {folder}:\n\n"
             for file in files:
                 file_link = f"{github_repo_url}/{folder}/{file}"
-                markdown_content += f"- [{file}]({file_link})\n"
+                formatted_file_name = file.replace('-', ' ').replace('.md', '')
+                markdown_content += f"- [{formatted_file_name}]({file_link})\n"
+
         else:
             markdown_content += "No files found in this folder.\n"
         
