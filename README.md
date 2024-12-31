@@ -173,7 +173,7 @@ Total number of prompts: 172
 
 #### Files in Copywriting:
 
-- [AIDA Framework](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/AIDA Framework.md)
+- [AIDA Framework](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/AIDA-Framework.md)
 - [AIDA Marketing Framework](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/AIDA-Marketing-Framework.md)
 - [Addressing Pain Points and Needs of Ideal Customer Persona](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Addressing-Pain-Points-and-Needs-of-Ideal-Customer-Persona.md)
 - [Awareness Comprehension Conviction Action Framework](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Awareness-Comprehension-Conviction-Action-Framework.md)
