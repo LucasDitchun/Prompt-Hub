@@ -1,11 +1,12 @@
 # PROMPT HUB
 
-Total number of prompts: 172
+Total number of prompts: 177
 
 ## Table of Contents
 
 - [AI-Agents](#ai-agents) (10 prompts)
 - [Business](#business) (129 prompts)
+- [Content-Creation](#content-creation) (5 prompts)
 - [Copywriting](#copywriting) (33 prompts)
 
 ---
@@ -164,6 +165,20 @@ Total number of prompts: 172
 - [Video Producer](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Video-Producer.md)
 - [Videographer](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Videographer.md)
 - [Visual Identity Design](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Business/Visual-Identity-Design.md)
+
+</details>
+
+## Content-Creation (5 prompts)
+<details>
+  <summary>Click to expand the list</summary>
+
+#### Files in Content-Creation:
+
+- [Decision Making with Compare Contrast Strategies](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Decision-Making-with-Compare-Contrast-Strategies.md)
+- [Focused Content Creation](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Focused-Content-Creation.md)
+- [Marketing Myth Busting Framework](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Marketing-Myth-Busting-Framework.md)
+- [Persuasive Writing with SPIN](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Persuasive-Writing-with-SPIN.md)
+- [Storyboarding for Marketing Campaigns](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Storyboarding-for-Marketing-Campaigns.md)
 
 </details>
 
