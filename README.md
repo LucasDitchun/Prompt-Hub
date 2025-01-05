@@ -1,12 +1,12 @@
 # PROMPT HUB
 
-Total number of prompts: 177
+Total number of prompts: 183
 
 ## Table of Contents
 
 - [AI-Agents](#ai-agents) (10 prompts)
 - [Business](#business) (129 prompts)
-- [Content-Creation](#content-creation) (5 prompts)
+- [Content-Creation](#content-creation) (11 prompts)
 - [Copywriting](#copywriting) (33 prompts)
 
 ---
@@ -168,16 +168,22 @@ Total number of prompts: 177
 
 </details>
 
-## Content-Creation (5 prompts)
+## Content-Creation (11 prompts)
 <details>
   <summary>Click to expand the list</summary>
 
 #### Files in Content-Creation:
 
+- [Content Strategy Using the PESO Model](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Content-Strategy-Using-the-PESO-Model.md)
 - [Decision Making with Compare Contrast Strategies](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Decision-Making-with-Compare-Contrast-Strategies.md)
+- [Empathy Map for Customer Insights](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Empathy-Map-for-Customer-Insights.md)
 - [Focused Content Creation](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Focused-Content-Creation.md)
+- [Heros Journey Storytelling](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Heros-Journey-Storytelling.md)
+- [How To Marketing Framework for Achieving Results](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/How-To-Marketing-Framework-for-Achieving-Results.md)
+- [Marketing Framework Situation Complication Resolution](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Marketing-Framework-Situation-Complication-Resolution.md)
 - [Marketing Myth Busting Framework](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Marketing-Myth-Busting-Framework.md)
 - [Persuasive Writing with SPIN](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Persuasive-Writing-with-SPIN.md)
+- [SCAMPER Framework for Creative Campaigns](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/SCAMPER-Framework-for-Creative-Campaigns.md)
 - [Storyboarding for Marketing Campaigns](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Storyboarding-for-Marketing-Campaigns.md)
 
 </details>
