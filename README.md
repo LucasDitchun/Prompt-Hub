@@ -1,12 +1,12 @@
 # PROMPT HUB
 
-Total number of prompts: 183
+Total number of prompts: 189
 
 ## Table of Contents
 
 - [AI-Agents](#ai-agents) (10 prompts)
 - [Business](#business) (129 prompts)
-- [Content-Creation](#content-creation) (11 prompts)
+- [Content-Creation](#content-creation) (17 prompts)
 - [Copywriting](#copywriting) (33 prompts)
 
 ---
@@ -168,7 +168,7 @@ Total number of prompts: 183
 
 </details>
 
-## Content-Creation (11 prompts)
+## Content-Creation (17 prompts)
 <details>
   <summary>Click to expand the list</summary>
 
@@ -177,13 +177,19 @@ Total number of prompts: 183
 - [Content Strategy Using the PESO Model](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Content-Strategy-Using-the-PESO-Model.md)
 - [Decision Making with Compare Contrast Strategies](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Decision-Making-with-Compare-Contrast-Strategies.md)
 - [Empathy Map for Customer Insights](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Empathy-Map-for-Customer-Insights.md)
+- [Finding the Product Market Fit](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Finding-the-Product-Market-Fit.md)
 - [Focused Content Creation](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Focused-Content-Creation.md)
 - [Heros Journey Storytelling](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Heros-Journey-Storytelling.md)
 - [How To Marketing Framework for Achieving Results](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/How-To-Marketing-Framework-for-Achieving-Results.md)
+- [Marketing Campaign via Q&A](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Marketing-Campaign-via-Q&A.md)
+- [Marketing Framework Scannable Campaigns](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Marketing-Framework-Scannable-Campaigns.md)
 - [Marketing Framework Situation Complication Resolution](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Marketing-Framework-Situation-Complication-Resolution.md)
+- [Marketing Funnel Strategy Guide](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Marketing-Funnel-Strategy-Guide.md)
 - [Marketing Myth Busting Framework](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Marketing-Myth-Busting-Framework.md)
+- [Marketing with Storytelling](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Marketing-with-Storytelling.md)
 - [Persuasive Writing with SPIN](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Persuasive-Writing-with-SPIN.md)
 - [SCAMPER Framework for Creative Campaigns](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/SCAMPER-Framework-for-Creative-Campaigns.md)
+- [Showcasing Success Through Case Studies](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Showcasing-Success-Through-Case-Studies.md)
 - [Storyboarding for Marketing Campaigns](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Storyboarding-for-Marketing-Campaigns.md)
 
 </details>
