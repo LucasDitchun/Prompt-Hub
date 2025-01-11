@@ -1,13 +1,14 @@
 # PROMPT HUB
 
-Total number of prompts: 189
+Total number of prompts: 197
 
 ## Table of Contents
 
 - [AI-Agents](#ai-agents) (10 prompts)
 - [Business](#business) (129 prompts)
-- [Content-Creation](#content-creation) (17 prompts)
+- [Content-Creation](#content-creation) (21 prompts)
 - [Copywriting](#copywriting) (33 prompts)
+- [Marketing](#marketing) (4 prompts)
 
 ---
 
@@ -168,14 +169,17 @@ Total number of prompts: 189
 
 </details>
 
-## Content-Creation (17 prompts)
+## Content-Creation (21 prompts)
 <details>
   <summary>Click to expand the list</summary>
 
 #### Files in Content-Creation:
 
 - [Content Strategy Using the PESO Model](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Content-Strategy-Using-the-PESO-Model.md)
+- [Creating Focused Content](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Creating-Focused-Content.md)
+- [Customer Journey Mapping Framework](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Customer-Journey-Mapping-Framework.md)
 - [Decision Making with Compare Contrast Strategies](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Decision-Making-with-Compare-Contrast-Strategies.md)
+- [Emotional Engagement Campaign Framework](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Emotional-Engagement-Campaign-Framework.md)
 - [Empathy Map for Customer Insights](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Empathy-Map-for-Customer-Insights.md)
 - [Finding the Product Market Fit](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Finding-the-Product-Market-Fit.md)
 - [Focused Content Creation](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Focused-Content-Creation.md)
@@ -188,6 +192,7 @@ Total number of prompts: 189
 - [Marketing Myth Busting Framework](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Marketing-Myth-Busting-Framework.md)
 - [Marketing with Storytelling](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Marketing-with-Storytelling.md)
 - [Persuasive Writing with SPIN](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Persuasive-Writing-with-SPIN.md)
+- [Problem Solution Marketing Framework](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Problem-Solution-Marketing-Framework.md)
 - [SCAMPER Framework for Creative Campaigns](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/SCAMPER-Framework-for-Creative-Campaigns.md)
 - [Showcasing Success Through Case Studies](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Showcasing-Success-Through-Case-Studies.md)
 - [Storyboarding for Marketing Campaigns](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Content-Creation/Storyboarding-for-Marketing-Campaigns.md)
@@ -233,5 +238,18 @@ Total number of prompts: 189
 - [Unique Selling Proposition Framework](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Unique-Selling-Proposition-Framework.md)
 - [Unique Value Proposition Framework](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Unique-Value-Proposition-Framework.md)
 - [Writing Style Generator](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Copywriting/Writing-Style-Generator.md)
+
+</details>
+
+## Marketing (4 prompts)
+<details>
+  <summary>Click to expand the list</summary>
+
+#### Files in Marketing:
+
+- [Blog Content Strategist](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Marketing/Blog-Content-Strategist.md)
+- [Direct Marketing Campaign](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Marketing/Direct-Marketing-Campaign.md)
+- [Strategic Marketing Blueprint](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Marketing/Strategic-Marketing-Blueprint.md)
+- [Visual Cognitive Mind Map](https://github.com/LucasDitchun/Prompt-Hub/blob/main/Marketing/Visual-Cognitive-Mind-Map.md)
 
 </details>
